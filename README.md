@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satish860&show_icons=true&locale=en" alt="satish860" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satish860&" alt="satish860" /></p>
+
+[![Satish Medium](https://github-readme-medium.vercel.app/?username=satish860)](https://medium.com/@satish1v)
