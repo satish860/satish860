@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/satish1v" target="blank"><img src="https://img.shields.io/twitter/follow/satish1v?logo=twitter&style=for-the-badge" alt="satish1v" /></a> </p>
 
-- 🔭 I’m currently working on [E-Shop on web](https://github.com/satish860/EshopOnWeb)
+- 🔭 I’m currently working on [Todoist clone](https://github.com/satish860/Todoist)
 
 - 🌱 I’m currently learning **Asp.net Core, kubernetes, Nats.io**
 
